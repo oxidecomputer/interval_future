@@ -1,6 +1,6 @@
 [package]
 name = "interval_future"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Sean Klein <sean@oxide.computer>"]
 description = "Wraps a synchronous, waker-less polling function in an interval-based future"
 edition = "2018"
